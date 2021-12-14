@@ -1,0 +1,32 @@
+.top{
+    margin:94px 43px 151px;
+}
+
+.topCamera{
+    text-align:center;
+    font-size:18px;
+}
+.topCamera div img{
+    border-radius: 50%;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    width:154px;
+    margin-bottom:10px;
+}
+
+.topGroup{
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-between;
+    margin-top:26px;
+}
+
+.topContents{
+    text-align:center;
+    font-size:16px;
+}
+.topContents div img{
+    border-radius: 50%;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    width:105px;
+    margin-bottom:8px;
+}
